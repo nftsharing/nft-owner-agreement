@@ -24,7 +24,7 @@ Subject to the transfer restrictions set forth herein, and payment to Licensor o
 Subject to the restrictions set forth in Subsection 2.2 herein below, the acquisition of an NFT may entitle the current Owner thereof to a certain additional entitlement(s) as may be offered by the Licensor, in its sole discretion (the “Entitlements”), each subject to availability and the restrictions set forth in Subsection 2.2 below and as otherwise communicated by Licensor from time-to-time.  
 ### 2. Restrictions. 
 Notwithstanding a valid transfer of ownership of an NFT, once the Entitlement for each event has been redeemed by an Owner of the subject NFT, no subsequent Owner of that same NFT shall have the right to redeem such Entitlement. No Entitlement may be licensed, sold, transferred, rented or assigned, separate and apart from a Permitted Transfer of ownership of the NFT. Any Entitlement(s) must be redeemed by the Owner, or it/they will be forfeited.  The Entitlements have no cash value.  Redemption of the Entitlement(s) are subject to availability, and Licensor reserves the right to reschedule each Entitlement, in its sole discretion, including for circumstances beyond Licensor’s control.  
-### 3. Procedure: 
+### 3. Procedure. 
 Owner may claim the Entitlement(s) by following the procedures detailed on the Site, or as otherwise communicated to Owner by Licensor. 
 ## 3. Warranty; Disclaimers and Assumption of Risk. 
 ### 1. Owner Warranty.  
